@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningRestSharp", "LearningRestSharp\LearningRestSharp.csproj", "{72C88FD7-585D-48D3-872F-74D3FDB5E936}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuyAPITest", "BestBuyAPITest\BestBuyAPITest.csproj", "{FEED11B7-0449-4D95-9D3C-21739B70A891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{72C88FD7-585D-48D3-872F-74D3FDB5E936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{72C88FD7-585D-48D3-872F-74D3FDB5E936}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{72C88FD7-585D-48D3-872F-74D3FDB5E936}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{72C88FD7-585D-48D3-872F-74D3FDB5E936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEED11B7-0449-4D95-9D3C-21739B70A891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEED11B7-0449-4D95-9D3C-21739B70A891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEED11B7-0449-4D95-9D3C-21739B70A891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEED11B7-0449-4D95-9D3C-21739B70A891}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {547910D0-B975-4A91-A300-E49F2B71358B}
+		SolutionGuid = {CDB05894-DAD6-4DC5-BED0-6633511CA4A3}
 	EndGlobalSection
 EndGlobal

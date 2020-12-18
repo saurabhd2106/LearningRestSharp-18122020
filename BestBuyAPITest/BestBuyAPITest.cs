@@ -31,7 +31,6 @@ namespace BestBuyAPITest
             IRestResponse restResponse =  restClient.Get(restRequest);
 
             Assert.AreEqual(HttpStatusCode.OK, restResponse.StatusCode);
-            Assert.AreEqual(HttpStatusCode.OK, restResponse.StatusCode);
             Assert.AreEqual((200), (int)restResponse.StatusCode);
 
             System.Console.WriteLine(restResponse.Content);

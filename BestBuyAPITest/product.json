@@ -1,0 +1,12 @@
+﻿{
+  "name": "IPhone",
+  "type": "Mobile",
+  "price": 1000,
+  "shipping": 20,
+  "upc": "ABC@123",
+  "description": "Best Mobile",
+  "manufacturer": "Apple",
+  "model": "IPhone 12",
+  "url": "string",
+  "image": "string"
+}
